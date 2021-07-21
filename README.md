@@ -1,4 +1,4 @@
 # Recursos adicionales
 
-- (Frontend mentors)[https://www.frontendmentor.io/challenges]
+- [Frontend mentors](https://www.frontendmentor.io/challenges)
 
